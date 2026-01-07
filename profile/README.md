@@ -99,3 +99,9 @@ There are many ways to run Imposter.
 ### Within your CI/CD pipeline
 
 - Use the [Imposter GitHub Actions](https://docs.imposter.sh/github_actions/) to start and stop Imposter during your CI/CD pipeline.
+
+## Contributing
+
+- Pull requests are welcome.
+- For Imposter versions up to and including 4.x, see [imposter-jvm-engine](https://github.com/imposter-project/imposter-jvm-engine)
+- For Imposter version 5.x, see [imposter-go](https://github.com/imposter-project/imposter-go)
