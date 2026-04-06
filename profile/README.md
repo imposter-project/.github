@@ -102,6 +102,7 @@ There are many ways to run Imposter.
 
 ## Contributing
 
-- Pull requests are welcome.
-- For Imposter versions up to and including 4.x, see [imposter-jvm-engine](https://github.com/imposter-project/imposter-jvm-engine)
-- For Imposter version 5.x, see [imposter-go](https://github.com/imposter-project/imposter-go)
+- Issues can be raised in the [imposter](https://github.com/imposter-project/imposter/issues) repository (or a more specific [repository](https://github.com/orgs/imposter-project/repositories) as needed)
+- Pull requests are welcome:
+  - For Imposter versions up to and including 4.x, see [imposter-jvm-engine](https://github.com/imposter-project/imposter-jvm-engine)
+  - For Imposter version 5.x, see [imposter-go](https://github.com/imposter-project/imposter-go)
