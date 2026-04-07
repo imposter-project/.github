@@ -1,6 +1,6 @@
 # Imposter: Scriptable, multipurpose mock server
 
-> Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
+> Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), gRPC (and protobuf) services, Salesforce and HBase APIs.
 >
 > - Run **standalone** mock servers in Docker, Kubernetes, AWS Lambda or on the JVM.
 > - **Embed** mocks within your tests (JVM or Node.js) to remove external dependencies.
@@ -50,6 +50,7 @@ Imposter provides specialised mocks for the following scenarios:
 - **[OpenAPI](https://docs.imposter.sh/openapi_plugin/)** - Support for OpenAPI (and Swagger) API specifications.
 - **[REST](https://docs.imposter.sh/rest_plugin/)** - Mocks RESTful or plain HTTP APIs.
 - **[SOAP](https://docs.imposter.sh/soap_plugin/)** - Support for SOAP web services (and WSDL files).
+- **[gRPC](https://docs.imposter.sh/grpc_plugin/)** - gRPC and protobuf services.
 - **[WireMock](https://docs.imposter.sh/wiremock_plugin/)** - Support for WireMock mappings files.
 - **[SFDC (Salesforce)](https://docs.imposter.sh/sfdc_plugin/)** - Basic Salesforce mock implementation.
 - **[HBase](https://docs.imposter.sh/hbase_plugin/)** - Basic HBase mock implementation.
